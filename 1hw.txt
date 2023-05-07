@@ -1,4 +1,4 @@
-1) Посмотреть где я —> >pwd
+1) Посмотреть где я —> `pwd`
 2) Создать папку —> mkdir x-folder
 3) Зайти в папку —> cd x-folder
 4) Создать 3 папки —> mkdir a-folder b-folder c-folder
