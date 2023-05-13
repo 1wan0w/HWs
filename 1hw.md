@@ -41,5 +41,5 @@ mkdir f1 f2 f3<br>
 #Show me your body<br>
 ls<br>
 #Move 2 json-file in f1<br>
-mv x.json y.json f1<br>
+mv x.json y.json f1<br>**
 
