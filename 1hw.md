@@ -25,20 +25,20 @@
 http://162.55.220.72:5005/terminal-hw-request —> `get http://162.55.220.72:5005`
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
-#!/bin/bash<br>
+`#!/bin/bash<br>
 #Create folder<br>
-mkdir autopapka
-#Open folder
-cd autopapka
-#Create 3 folders in autopapka
-mkdir af1 af2 af3
-#Open af1
-cd af1
-#Create 5 file:3txt and 2json
-touch 1.txt 2.txt 3.txt x.json y.json
-#Create 3 folders
-mkdir f1 f2 f3
-#Show me your body
-ls
-#Move 2 json-file in f1
-mv x.json y.json f1
+mkdir autopapka<br>
+#Open folder<br>
+cd autopapka<br>
+#Create 3 folders in autopapka<br>
+mkdir af1 af2 af3<br>
+#Open af1<br>
+cd af1<br>
+#Create 5 file:3txt and 2json<br>
+touch 1.txt 2.txt 3.txt x.json y.json<br>
+#Create 3 folders<br>
+mkdir f1 f2 f3<br>
+#Show me your body<br>
+ls<br>
+#Move 2 json-file in f1<br>
+mv x.json y.json f1`<br>
