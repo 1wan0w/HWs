@@ -3,7 +3,7 @@
 2) Создать папку<br> **->**`mkdir x-folder`
 3) Зайти в папку<br> **->**`cd x-folder`
 4) Создать 3 папки<br> **->**`mkdir a-folder b-folder c-folder`
-5) Зайти в любоую папку<br> **->** cd a-folder
+5) Зайти в любоую папку<br> **->** `cd a-folder`
 6) Создать 5 файлов (3 txt, 2 json)<br> **->**`touch a.txt b.txt c.txt d.json e.json`
 7) Создать 3 папки<br> **->**`mkdir a1f a2f a3f`
 8) Вывести список содержимого папки<br> **->**`ls`
