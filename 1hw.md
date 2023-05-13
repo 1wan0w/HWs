@@ -25,7 +25,6 @@
 http://162.55.220.72:5005/terminal-hw-request —> `get http://162.55.220.72:5005`
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
 
-`
 #!/bin/bash<br>
 #Create folder<br>
 mkdir autopapka<br>
@@ -43,4 +42,4 @@ mkdir f1 f2 f3<br>
 ls<br>
 #Move 2 json-file in f1<br>
 mv x.json y.json f1<br>
-`
+f
