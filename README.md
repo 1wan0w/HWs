@@ -1,4 +1,4 @@
-**TERMINAL.HW1d*
+**TERMINAL.HW1**
 1) Посмотреть где я<br> **->** `pwd`
 2) Создать папку<br> **->**`mkdir x-folder`
 3) Зайти в папку<br> **->**`cd x-folder`
